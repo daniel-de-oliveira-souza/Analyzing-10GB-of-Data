@@ -1,4 +1,4 @@
-# Analyzing-10GB-of-Yelp-Reviews-Data
+# Analyzing 10GB of Yelp Reviews Data
 
 Provisioning a Spark cluster on AWS Elastic Map Reduce (EMR) and connecting it to a Jupyter Notebook. I used PySpark to deal with this large datasets.
 
